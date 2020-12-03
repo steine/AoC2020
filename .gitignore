@@ -263,6 +263,9 @@ paket-files/
 __pycache__/
 *.pyc
 
+# vscode
+.vscode/
+
 # Azureite vscode plugin
 __azurite_db_blob__.json
 __azurite_db_blob_extent__.json
