@@ -11,7 +11,7 @@
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
       "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/AoC2020.dll",
-      "args": ["-e", "5", "--file", "./data/5/test.txt"],
+      "args": ["-e", "6", "--file", "./data/6/test.txt", "--second"],
       "cwd": "${workspaceFolder}",
       // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
       "console": "internalConsole",

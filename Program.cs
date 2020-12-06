@@ -46,6 +46,10 @@ namespace AoC2020
                     app = new Five(linesEnumerable);
                     break;
                 }
+                case "6": {
+                    app = new Six(linesEnumerable);
+                    break;
+                }
                 default:
                     Console.WriteLine("No registered runner for event: " +argsEvent);
                     return;
